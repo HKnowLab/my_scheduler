@@ -1,0 +1,6 @@
+{
+    "job_id": "job_02",           
+    "sql_filepath": "/sql/2.sql", 
+    "upstreams": ["job_01"],      
+    "compute_tables":[]           
+}

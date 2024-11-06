@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/app.py", // 어떤 python 파일을 실행할 것인지
+            "args": ["job_02"], // argument 집어넣어서 실행할 경우
+            "console": "integratedTerminal"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "diagrams",
+			"path": "G:/Project/diagrams"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic",
+		"java.project.sourcePaths": [
+			""
+		]
+	}
+}
